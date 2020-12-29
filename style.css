@@ -1,0 +1,22 @@
+body { background-color: rgba(255, 238, 0, 0.356);}
+
+h1#encabezado_ppal {textfont-style: arial;font-weight: bold;color: rgb(138, 8, 8); text-align: center}
+h2#encabezado_ppal {font-style: arial;font-weight: bold;color: rgb(138, 8, 8); text-align: center}
+
+img.imagen1 { width: 80px; height: 80px;}
+img.imagen2 { width: 100px; height: 80px;}
+img.imagen3 { width: 80px; height: 80px;}
+
+
+.p1{color: rgb(19, 5, 148);position: relative;
+left: 500px;top: 150;font-weight: bold;}
+
+.p2{color: rgb(128, 4, 4);position: relative; left: 1000px;top: 300;font-weight: bold;}
+
+.p3{color: rgb(128, 11, 11);position: relative; left: 20px;top: 20px;font-weight: bold;}
+
+.hr2{ height: 3px;background-color: rgb(138, 8, 8);position: relative; top: 20px;}
+
+.hr1{ height: 3px;background-color: rgb(138, 8, 8);position: absolute; top: 100px;}
+
+.p4{text-align: justify;margin: 50px;}
